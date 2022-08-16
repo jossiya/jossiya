@@ -1,4 +1,6 @@
-### Hi there! I`m <b>WEB developer</b> skilled in API, WEB 👋
+### 🤞 Nice way to meet me
+
+<P>Hi there! I`m <b>WEB developer</b> skilled in API, WEB 👋</p>
 
 <!--
 **jossiya/jossiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
