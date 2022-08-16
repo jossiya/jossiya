@@ -1,4 +1,4 @@
-### Hi there! I`m <b>wep developer</b> 👋
+### Hi there! I`m <b>wep developer</b>skilled in API, WEB 👋
 
 <!--
 **jossiya/jossiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
